@@ -1,6 +1,7 @@
 ## Coding concepts
 
 A blog website designed to provide ideas and resources for those who ar just getting started on their coding journey!
+Check that changes are commited from VSC and seen in github
 
 ## install
 
